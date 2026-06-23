@@ -1,0 +1,274 @@
+[
+  {
+    "id": "001",
+    "marca": "Smart",
+    "nome": "R13 Scooter Elétrica",
+    "ano": 2026,
+    "km": 0,
+    "cambio": "Automático",
+    "combustivel": "Elétrica",
+    "preco": 12900,
+    "tipo": "Moto",
+    "galeria": [
+      "imgs/imgs-carros/smart-r13-2026/foto1.jpg",
+      "imgs/imgs-carros/smart-r13-2026/foto2.jpg",
+      "imgs/imgs-carros/smart-r13-2026/foto3.jpg"
+    ],
+    "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Smart%20R13%20Scooter%20El%C3%A9trica%202026.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
+  },
+  {
+    "id": "002",
+    "marca": "Audi",
+    "nome": "A3 2.0 Turbo",
+    "ano": 2003,
+    "km": 189000,
+    "cambio": "Automático",
+    "combustivel": "Gasolina",
+    "preco": 28900,
+    "tipo": "Carro",
+    "galeria": [
+      "imgs/imgs-carros/audi-a3-2003/foto1.jpg",
+      "imgs/imgs-carros/audi-a3-2003/foto2.jpg",
+      "imgs/imgs-carros/audi-a3-2003/foto3.jpg"
+    ],
+    "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Audi%20A3%202.0%20Turbo%202003.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
+  },
+  {
+    "id": "003",
+    "marca": "Renault",
+    "nome": "Sandero 1.6",
+    "ano": 2009,
+    "km": 200000,
+    "cambio": "Manual",
+    "combustivel": "Flex",
+    "preco": 29900,
+    "tipo": "Carro",
+    "galeria": [
+      "imgs/imgs-carros/renault-sandero-2009/foto1.jpg",
+      "imgs/imgs-carros/renault-sandero-2009/foto2.jpg",
+      "imgs/imgs-carros/renault-sandero-2009/foto3.jpg"
+    ],
+    "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Renault%20Sandero%201.6%202009.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
+  },
+  {
+    "id": "004",
+    "marca": "Chevrolet",
+    "nome": "Spin LT 1.8",
+    "ano": 2018,
+    "km": 232000,
+    "cambio": "Automático",
+    "combustivel": "Flex",
+    "preco": 56900,
+    "tipo": "Carro",
+    "galeria": [
+      "imgs/imgs-carros/chevrolet-spin-2018/foto1.jpg",
+      "imgs/imgs-carros/chevrolet-spin-2018/foto2.jpg",
+      "imgs/imgs-carros/chevrolet-spin-2018/foto3.jpg"
+    ],
+    "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Chevrolet%20Spin%20LT%201.8%202018.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
+  },
+  {
+    "id": "005",
+    "marca": "Chevrolet",
+    "nome": "Tracker LT 1.0 Turbo",
+    "ano": 2021,
+    "km": 77000,
+    "cambio": "Automático",
+    "combustivel": "Flex",
+    "preco": 89900,
+    "tipo": "Carro",
+    "galeria": [
+      "imgs/imgs-carros/chevrolet-tracker-2021/foto1.jpg",
+      "imgs/imgs-carros/chevrolet-tracker-2021/foto2.jpg",
+      "imgs/imgs-carros/chevrolet-tracker-2021/foto3.jpg"
+    ],
+    "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Chevrolet%20Tracker%20LT%201.0%20Turbo%202021.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
+  },
+  {
+    "id": "006",
+    "marca": "Chevrolet",
+    "nome": "Cruze LT 1.0 Turbo",
+    "ano": 2017,
+    "km": 161000,
+    "cambio": "Automático",
+    "combustivel": "Flex",
+    "preco": 77900,
+    "tipo": "Carro",
+    "galeria": [
+      "imgs/imgs-carros/chevrolet-cruze-2017/foto1.jpg",
+      "imgs/imgs-carros/chevrolet-cruze-2017/foto2.jpg",
+      "imgs/imgs-carros/chevrolet-cruze-2017/foto3.jpg"
+    ],
+    "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Chevrolet%20Cruze%20LT%201.0%20Turbo%202017.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
+  },
+  {
+    "id": "007",
+    "marca": "Volkswagen",
+    "nome": "Tiguan 2.0 TSI",
+    "ano": 2011,
+    "km": 159000,
+    "cambio": "Automático",
+    "combustivel": "Gasolina",
+    "preco": 59900,
+    "tipo": "Carro",
+    "galeria": [
+      "imgs/imgs-carros/volkswagen-tiguan-2011/foto1.jpg",
+      "imgs/imgs-carros/volkswagen-tiguan-2011/foto2.jpg",
+      "imgs/imgs-carros/volkswagen-tiguan-2011/foto3.jpg"
+    ],
+    "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Volkswagen%20Tiguan%202.0%20TSI%202011.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
+  },
+  {
+    "id": "008",
+    "marca": "Chevrolet",
+    "nome": "Corsa 1.0",
+    "ano": 2004,
+    "km": 206000,
+    "cambio": "Manual",
+    "combustivel": "Álcool",
+    "preco": 21900,
+    "tipo": "Carro",
+    "galeria": [
+      "imgs/imgs-carros/chevrolet-corsa-2004/foto1.jpg",
+      "imgs/imgs-carros/chevrolet-corsa-2004/foto2.jpg",
+      "imgs/imgs-carros/chevrolet-corsa-2004/foto3.jpg"
+    ],
+    "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Chevrolet%20Corsa%201.0%202004.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
+  },
+  {
+    "id": "009",
+    "marca": "Honda",
+    "nome": "XRE 300 ABS",
+    "ano": 2023,
+    "km": 47000,
+    "cambio": "Manual",
+    "combustivel": "Flex",
+    "preco": 30900,
+    "tipo": "Moto",
+    "galeria": [
+      "imgs/imgs-carros/honda-xre-300-2023/foto1.jpg",
+      "imgs/imgs-carros/honda-xre-300-2023/foto2.jpg",
+      "imgs/imgs-carros/honda-xre-300-2023/foto3.jpg"
+    ],
+    "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Honda%20XRE%20300%20ABS%202023.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
+  },
+  {
+    "id": "010",
+    "marca": "Volkswagen",
+    "nome": "Gol MSI 1.6",
+    "ano": 2015,
+    "km": 184000,
+    "cambio": "Manual",
+    "combustivel": "Flex",
+    "preco": 39900,
+    "tipo": "Carro",
+    "galeria": [
+      "imgs/imgs-carros/volkswagen-gol-2015/foto1.jpg",
+      "imgs/imgs-carros/volkswagen-gol-2015/foto2.jpg",
+      "imgs/imgs-carros/volkswagen-gol-2015/foto3.jpg"
+    ],
+    "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Volkswagen%20Gol%20MSI%201.6%202015.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
+  },
+  {
+    "id": "011",
+    "marca": "Volkswagen",
+    "nome": "Polo Sedan 1.6",
+    "ano": 2008,
+    "km": 277000,
+    "cambio": "Manual",
+    "combustivel": "Flex",
+    "preco": 29900,
+    "tipo": "Carro",
+    "galeria": [
+      "imgs/imgs-carros/volkswagen-polo-sedan-2008/foto1.jpg",
+      "imgs/imgs-carros/volkswagen-polo-sedan-2008/foto2.jpg",
+      "imgs/imgs-carros/volkswagen-polo-sedan-2008/foto3.jpg"
+    ],
+    "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Volkswagen%20Polo%20Sedan%201.6%202008.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
+  },
+  {
+    "id": "012",
+    "marca": "Yamaha",
+    "nome": "Fazer 150",
+    "ano": 2024,
+    "km": 20000,
+    "cambio": "Manual",
+    "combustivel": "Flex",
+    "preco": 19900,
+    "tipo": "Moto",
+    "galeria": [
+      "imgs/imgs-carros/yamaha-fazer-150-2024/foto1.jpg",
+      "imgs/imgs-carros/yamaha-fazer-150-2024/foto2.jpg",
+      "imgs/imgs-carros/yamaha-fazer-150-2024/foto3.jpg"
+    ],
+    "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Yamaha%20Fazer%20150%202024.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
+  },
+  {
+    "id": "013",
+    "marca": "Fiat",
+    "nome": "Uno 1.0",
+    "ano": 2011,
+    "km": 180000,
+    "cambio": "Manual",
+    "combustivel": "Flex",
+    "preco": 28900,
+    "tipo": "Carro",
+    "galeria": [
+      "imgs/imgs-carros/fiat-uno-2011/foto1.jpg",
+      "imgs/imgs-carros/fiat-uno-2011/foto2.jpg",
+      "imgs/imgs-carros/fiat-uno-2011/foto3.jpg"
+    ],
+    "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Fiat%20Uno%201.0%202011.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
+  },
+  {
+    "id": "014",
+    "marca": "Hyundai",
+    "nome": "HB20 1.0",
+    "ano": 2014,
+    "km": 180000,
+    "cambio": "Manual",
+    "combustivel": "Flex",
+    "preco": 45900,
+    "tipo": "Carro",
+    "galeria": [
+      "imgs/imgs-carros/hyundai-hb20-2014/foto1.jpg",
+      "imgs/imgs-carros/hyundai-hb20-2014/foto2.jpg",
+      "imgs/imgs-carros/hyundai-hb20-2014/foto3.jpg"
+    ],
+    "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Hyundai%20HB20%201.0%202014.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
+  },
+  {
+    "id": "015",
+    "marca": "Chevrolet",
+    "nome": "S10 2.0 Turbo Diesel",
+    "ano": 2015,
+    "km": 300000,
+    "cambio": "Automático",
+    "combustivel": "Diesel",
+    "preco": 109900,
+    "tipo": "Carro",
+    "galeria": [
+      "imgs/imgs-carros/chevrolet-s10-2015/foto1.jpg",
+      "imgs/imgs-carros/chevrolet-s10-2015/foto2.jpg",
+      "imgs/imgs-carros/chevrolet-s10-2015/foto3.jpg"
+    ],
+    "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Chevrolet%20S10%202.0%20Turbo%20Diesel%202015.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
+  },
+  {
+    "id": "016",
+    "marca": "Citroën",
+    "nome": "Picasso 1.5",
+    "ano": "Consulte",
+    "km": 130000,
+    "cambio": "Manual",
+    "combustivel": "Flex",
+    "preco": 31900,
+    "tipo": "Carro",
+    "galeria": [
+      "imgs/imgs-carros/citroen-picasso/foto1.jpg",
+      "imgs/imgs-carros/citroen-picasso/foto2.jpg",
+      "imgs/imgs-carros/citroen-picasso/foto3.jpg"
+    ],
+    "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Citro%C3%ABn%20Picasso%201.5.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
+  }
+]
