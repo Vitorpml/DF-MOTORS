@@ -270,5 +270,22 @@
       "imgs/imgs-carros/citroen-picasso/foto3.jpg"
     ],
     "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Citro%C3%ABn%20Picasso%201.5.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
+  },
+   {
+    "id": "017",
+    "marca": "pinto",
+    "nome": "pinto 1.5",
+    "ano": "Consulte",
+    "km": 130000,
+    "cambio": "Manual",
+    "combustivel": "Flex",
+    "preco": 31900,
+    "tipo": "Carro",
+    "galeria": [
+      "imgs/imgs-carros/citroen-picasso/foto1.jpg",
+      "imgs/imgs-carros/citroen-picasso/foto2.jpg",
+      "imgs/imgs-carros/citroen-picasso/foto3.jpg"
+    ],
+    "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Citro%C3%ABn%20Picasso%201.5.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
   }
 ]
