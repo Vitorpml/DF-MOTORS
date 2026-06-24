@@ -27,7 +27,7 @@
     "preco": 28900,
     "tipo": "Carro",
     "galeria": [
-      "imgs/imgs-carros/audi-a3-2003/foto1.jpg",
+      "imgs/imgs-carros/audi-a3-2003/audi-a3.jpg",
       "imgs/imgs-carros/audi-a3-2003/foto2.jpg",
       "imgs/imgs-carros/audi-a3-2003/foto3.jpg"
     ],
@@ -44,7 +44,7 @@
     "preco": 29900,
     "tipo": "Carro",
     "galeria": [
-      "imgs/imgs-carros/renault-sandero-2009/foto1.jpg",
+      "imgs/imgs-carros/renault-sandero-2009/sandero.jpg",
       "imgs/imgs-carros/renault-sandero-2009/foto2.jpg",
       "imgs/imgs-carros/renault-sandero-2009/foto3.jpg"
     ],
@@ -112,7 +112,7 @@
     "preco": 59900,
     "tipo": "Carro",
     "galeria": [
-      "imgs/imgs-carros/volkswagen-tiguan-2011/foto1.jpg",
+      "imgs/imgs-carros/volkswagen-tiguan-2011/tiguan.jpg",
       "imgs/imgs-carros/volkswagen-tiguan-2011/foto2.jpg",
       "imgs/imgs-carros/volkswagen-tiguan-2011/foto3.jpg"
     ],
@@ -129,7 +129,7 @@
     "preco": 21900,
     "tipo": "Carro",
     "galeria": [
-      "imgs/imgs-carros/chevrolet-corsa-2004/foto1.jpg",
+      "imgs/imgs-carros/chevrolet-corsa-2004/corsa.jpg",
       "imgs/imgs-carros/chevrolet-corsa-2004/foto2.jpg",
       "imgs/imgs-carros/chevrolet-corsa-2004/foto3.jpg"
     ],
@@ -180,7 +180,7 @@
     "preco": 29900,
     "tipo": "Carro",
     "galeria": [
-      "imgs/imgs-carros/volkswagen-polo-sedan-2008/foto1.jpg",
+      "imgs/imgs-carros/volkswagen-polo-sedan-2008/polo.jpg",
       "imgs/imgs-carros/volkswagen-polo-sedan-2008/foto2.jpg",
       "imgs/imgs-carros/volkswagen-polo-sedan-2008/foto3.jpg"
     ],
