@@ -9,7 +9,7 @@ function renderHeader() {
     <div class="container">
       <div class="header-inner">
         <a href="index.html" class="header-logo">
-          <img src="imgs/logo.png" alt="DF MOTORS">
+          <img src="imgs/logo.jpg" alt="DF MOTORS">
         </a>
         <nav class="nav-links">
           <a href="index.html">Início</a>
@@ -86,7 +86,7 @@ function renderFooter() {
           </div>
 
           <div style="margin-top:48px">
-            <img src="imgs/logo.png" alt="DF MOTORS" style="height:44px;opacity:0.5">
+            <img src="imgs/logo.jpg" alt="DF MOTORS" style="height:44px;opacity:0.5">
           </div>
         </div>
       </div>

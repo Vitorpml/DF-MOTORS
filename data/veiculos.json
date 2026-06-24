@@ -271,21 +271,21 @@
     ],
     "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Citro%C3%ABn%20Picasso%201.5.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
   },
-   {
+  {
     "id": "017",
-    "marca": "pinto",
-    "nome": "pinto 1.5",
-    "ano": "Consulte",
-    "km": 130000,
+    "marca": "Honda",
+    "nome": "CG 160 Titan",
+    "ano": 2023,
+    "km": 20000,
     "cambio": "Manual",
     "combustivel": "Flex",
-    "preco": 31900,
-    "tipo": "Carro",
+    "preco": 15900,
+    "tipo": "Moto",
     "galeria": [
-      "imgs/imgs-carros/citroen-picasso/foto1.jpg",
-      "imgs/imgs-carros/citroen-picasso/foto2.jpg",
-      "imgs/imgs-carros/citroen-picasso/foto3.jpg"
+      "imgs/imgs-carros/honda-cg-160-titan-2023/foto1.jpg",
+      "imgs/imgs-carros/honda-cg-160-titan-2023/foto2.jpg",
+      "imgs/imgs-carros/honda-cg-160-titan-2023/foto3.jpg"
     ],
-    "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Citro%C3%ABn%20Picasso%201.5.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
+    "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Honda%20CG%20160%20Titan%202023.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
   }
 ]
