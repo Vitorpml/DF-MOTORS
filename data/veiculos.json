@@ -65,7 +65,7 @@
     "preco": 56900,
     "tipo": "Carro",
     "galeria": [
-      "imgs/imgs-carros/chevrolet-spin-2018/spin.jpeg",
+      "imgs/imgs-carros/chevrolet-spin-2018/spint.jpeg",
       "imgs/imgs-carros/chevrolet-spin-2018/spin2.jpeg",
       "imgs/imgs-carros/chevrolet-spin-2018/spin1.jpeg"
     ],
@@ -203,7 +203,6 @@
     "preco": 45900,
     "tipo": "Carro",
     "galeria": [
-      "imgs/imgs-carros/hyundai-hb20-2014/hb20.jpeg",
       "imgs/imgs-carros/hyundai-hb20-2014/hb201.jpeg",
       "imgs/imgs-carros/hyundai-hb20-2014/hb202.jpeg",
       "imgs/imgs-carros/hyundai-hb20-2014/hb203.jpeg",
