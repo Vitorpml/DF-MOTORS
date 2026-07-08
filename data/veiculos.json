@@ -10,9 +10,13 @@
     "preco": 12900,
     "tipo": "Moto",
     "galeria": [
-      "imgs/imgs-carros/smart-r13-2026/foto1.jpg",
-      "imgs/imgs-carros/smart-r13-2026/foto2.jpg",
-      "imgs/imgs-carros/smart-r13-2026/foto3.jpg"
+      "imgs/imgs-carros/smart-r13-2026/scooter.jpeg",
+      "imgs/imgs-carros/smart-r13-2026/scooter1.jpeg",
+      "imgs/imgs-carros/smart-r13-2026/scooter2.jpeg",
+      "imgs/imgs-carros/smart-r13-2026/scooter3.jpeg",
+      "imgs/imgs-carros/smart-r13-2026/scooter4.jpeg",
+      "imgs/imgs-carros/smart-r13-2026/scooter5.jpeg",
+      "imgs/imgs-carros/smart-r13-2026/scooter6.jpeg"
     ],
     "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Smart%20R13%20Scooter%20El%C3%A9trica%202026.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
   },
@@ -61,9 +65,9 @@
     "preco": 56900,
     "tipo": "Carro",
     "galeria": [
-      "imgs/imgs-carros/chevrolet-spin-2018/foto1.jpg",
-      "imgs/imgs-carros/chevrolet-spin-2018/foto2.jpg",
-      "imgs/imgs-carros/chevrolet-spin-2018/foto3.jpg"
+      "imgs/imgs-carros/chevrolet-spin-2018/spin.jpeg",
+      "imgs/imgs-carros/chevrolet-spin-2018/spin2.jpeg",
+      "imgs/imgs-carros/chevrolet-spin-2018/spin1.jpeg"
     ],
     "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Chevrolet%20Spin%20LT%201.8%202018.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
   },
@@ -95,9 +99,8 @@
     "preco": 77900,
     "tipo": "Carro",
     "galeria": [
-      "imgs/imgs-carros/chevrolet-cruze-2017/foto1.jpg",
-      "imgs/imgs-carros/chevrolet-cruze-2017/foto2.jpg",
-      "imgs/imgs-carros/chevrolet-cruze-2017/foto3.jpg"
+      "imgs/imgs-carros/chevrolet-cruze-2017/cruze1.jpeg",
+      "imgs/imgs-carros/chevrolet-cruze-2017/cruze2.jpeg"
     ],
     "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Chevrolet%20Cruze%20LT%201.0%20Turbo%202017.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
   },
@@ -119,23 +122,6 @@
     "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Volkswagen%20Tiguan%202.0%20TSI%202011.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
   },
   {
-    "id": "008",
-    "marca": "Chevrolet",
-    "nome": "Corsa 1.0",
-    "ano": 2004,
-    "km": 206000,
-    "cambio": "Manual",
-    "combustivel": "Álcool",
-    "preco": 21900,
-    "tipo": "Carro",
-    "galeria": [
-      "imgs/imgs-carros/chevrolet-corsa-2004/corsa.jpg",
-      "imgs/imgs-carros/chevrolet-corsa-2004/foto2.jpg",
-      "imgs/imgs-carros/chevrolet-corsa-2004/foto3.jpg"
-    ],
-    "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Chevrolet%20Corsa%201.0%202004.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
-  },
-  {
     "id": "009",
     "marca": "Honda",
     "nome": "XRE 300 ABS",
@@ -146,9 +132,10 @@
     "preco": 30900,
     "tipo": "Moto",
     "galeria": [
-      "imgs/imgs-carros/honda-xre-300-2023/foto1.jpg",
-      "imgs/imgs-carros/honda-xre-300-2023/foto2.jpg",
-      "imgs/imgs-carros/honda-xre-300-2023/foto3.jpg"
+      "imgs/imgs-carros/honda-xre-300-2023/xre.jpeg",
+      "imgs/imgs-carros/honda-xre-300-2023/xre1.jpeg",
+      "imgs/imgs-carros/honda-xre-300-2023/xre2.jpeg",
+      "imgs/imgs-carros/honda-xre-300-2023/xre3.jpeg"
     ],
     "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Honda%20XRE%20300%20ABS%202023.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
   },
@@ -171,23 +158,6 @@
   },
   {
     "id": "011",
-    "marca": "Volkswagen",
-    "nome": "Polo Sedan 1.6",
-    "ano": 2008,
-    "km": 277000,
-    "cambio": "Manual",
-    "combustivel": "Flex",
-    "preco": 29900,
-    "tipo": "Carro",
-    "galeria": [
-      "imgs/imgs-carros/volkswagen-polo-sedan-2008/polo.jpg",
-      "imgs/imgs-carros/volkswagen-polo-sedan-2008/foto2.jpg",
-      "imgs/imgs-carros/volkswagen-polo-sedan-2008/foto3.jpg"
-    ],
-    "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Volkswagen%20Polo%20Sedan%201.6%202008.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
-  },
-  {
-    "id": "012",
     "marca": "Yamaha",
     "nome": "Fazer 150",
     "ano": 2024,
@@ -197,14 +167,16 @@
     "preco": 19900,
     "tipo": "Moto",
     "galeria": [
-      "imgs/imgs-carros/yamaha-fazer-150-2024/foto1.jpg",
-      "imgs/imgs-carros/yamaha-fazer-150-2024/foto2.jpg",
-      "imgs/imgs-carros/yamaha-fazer-150-2024/foto3.jpg"
+      "imgs/imgs-carros/yamaha-fazer-150-2024/fazer1.jpeg",
+      "imgs/imgs-carros/yamaha-fazer-150-2024/fazer2.jpeg",
+      "imgs/imgs-carros/yamaha-fazer-150-2024/fazer3.jpeg",
+      "imgs/imgs-carros/yamaha-fazer-150-2024/fazer4.jpeg",
+      "imgs/imgs-carros/yamaha-fazer-150-2024/fazer6.jpeg"
     ],
     "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Yamaha%20Fazer%20150%202024.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
   },
   {
-    "id": "013",
+    "id": "012",
     "marca": "Fiat",
     "nome": "Uno 1.0",
     "ano": 2011,
@@ -214,14 +186,14 @@
     "preco": 28900,
     "tipo": "Carro",
     "galeria": [
-      "imgs/imgs-carros/fiat-uno-2011/foto1.jpg",
-      "imgs/imgs-carros/fiat-uno-2011/foto2.jpg",
-      "imgs/imgs-carros/fiat-uno-2011/foto3.jpg"
+      "imgs/imgs-carros/fiat-uno-2011/uno1.jpeg",
+      "imgs/imgs-carros/fiat-uno-2011/uno2.jpeg",
+      "imgs/imgs-carros/fiat-uno-2011/uno3.jpeg"
     ],
     "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Fiat%20Uno%201.0%202011.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
   },
   {
-    "id": "014",
+    "id": "013",
     "marca": "Hyundai",
     "nome": "HB20 1.0",
     "ano": 2014,
@@ -231,14 +203,16 @@
     "preco": 45900,
     "tipo": "Carro",
     "galeria": [
-      "imgs/imgs-carros/hyundai-hb20-2014/foto1.jpg",
-      "imgs/imgs-carros/hyundai-hb20-2014/foto2.jpg",
-      "imgs/imgs-carros/hyundai-hb20-2014/foto3.jpg"
+      "imgs/imgs-carros/hyundai-hb20-2014/hb20.jpeg",
+      "imgs/imgs-carros/hyundai-hb20-2014/hb201.jpeg",
+      "imgs/imgs-carros/hyundai-hb20-2014/hb202.jpeg",
+      "imgs/imgs-carros/hyundai-hb20-2014/hb203.jpeg",
+      "imgs/imgs-carros/hyundai-hb20-2014/hb204.jpeg"
     ],
     "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Hyundai%20HB20%201.0%202014.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
   },
   {
-    "id": "015",
+    "id": "014",
     "marca": "Chevrolet",
     "nome": "S10 2.0 Turbo Diesel",
     "ano": 2015,
@@ -255,7 +229,7 @@
     "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Chevrolet%20S10%202.0%20Turbo%20Diesel%202015.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
   },
   {
-    "id": "016",
+    "id": "015",
     "marca": "Citroën",
     "nome": "Picasso 1.5",
     "ano": "Consulte",
@@ -265,27 +239,12 @@
     "preco": 31900,
     "tipo": "Carro",
     "galeria": [
-      "imgs/imgs-carros/citroen-picasso/foto1.jpg",
-      "imgs/imgs-carros/citroen-picasso/foto2.jpg",
-      "imgs/imgs-carros/citroen-picasso/foto3.jpg"
+      "imgs/imgs-carros/citroen-picasso/picasso.jpeg",
+      "imgs/imgs-carros/citroen-picasso/picasso2.jpeg",
+      "imgs/imgs-carros/citroen-picasso/picasso3.jpeg",
+      "imgs/imgs-carros/citroen-picasso/picasso4.jpeg",
+      "imgs/imgs-carros/citroen-picasso/picasso5.jpeg"
     ],
     "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Citro%C3%ABn%20Picasso%201.5.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
-  },
-  {
-    "id": "017",
-    "marca": "Honda",
-    "nome": "CG 160 Titan",
-    "ano": 2023,
-    "km": 20000,
-    "cambio": "Manual",
-    "combustivel": "Flex",
-    "preco": 15900,
-    "tipo": "Moto",
-    "galeria": [
-      "imgs/imgs-carros/honda-cg-160-titan-2023/foto1.jpg",
-      "imgs/imgs-carros/honda-cg-160-titan-2023/foto2.jpg",
-      "imgs/imgs-carros/honda-cg-160-titan-2023/foto3.jpg"
-    ],
-    "link": "https://wa.me/5514998703626?text=Ol%C3%A1%21%20Tenho%20interesse%20no%20Honda%20CG%20160%20Titan%202023.%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%3F"
   }
 ]
