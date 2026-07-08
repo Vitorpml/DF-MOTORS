@@ -50,7 +50,7 @@ function renderFooter() {
           </div>
           <div class="footer-contact-item">
             <span class="icon">📍</span>
-            <div>Av. Principal, 1234 — Centro<br>Lençóis Paulista, SP</div>
+            <div>Av. Pref. Jácomo Nicolau Paccola - 1959 — Centro<br>Lençóis Paulista, SP</div>
           </div>
           <div class="footer-map">
             <iframe
